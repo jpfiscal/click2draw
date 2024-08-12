@@ -1,0 +1,11 @@
+#drawBtn {
+    display:block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#shuffleBtn {
+    display:block;
+    margin: auto;
+    margin-top: 20px;
+}
